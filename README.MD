@@ -4,7 +4,7 @@ Install the dependencies.
 ```sh
 pip install -r requirements.txt
 ```
-##Building the model
+## Building the model
 A random forest model is used for binary classifcation. The model is trained on the training set in "binary_classifier_data" and then saved to "random_forest.pkl". 
 To run the script run the following command
 
